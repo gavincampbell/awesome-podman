@@ -18,11 +18,14 @@ A curated list of resources about podman
  - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
 ## Videos
 
-About this section. Optional. Keep this short and focus on the list.
 
 - [Containers without Docker - Ben Hall](https://www.youtube.com/watch?v=1RetLodCL1g) 
 - [List item](http://example.com)
 
+## Coloring Books
+
+ - [The Container Coloring Book](https://github.com/fedoradesign/coloringbook-containers/blob/master/Print-Ready/Web.pdf)
+ - [The Container Commandos Coloring Book](https://github.com/mairin/coloringbook-container-commandos/blob/master/Web.pdf)
 
 ## Contribute
 
