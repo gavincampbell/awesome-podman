@@ -7,12 +7,14 @@ A curated list of resources about podman
 
 ## Contents
 
-- [Links](#Links)
+- [Links](#Project-Links)
 - [Videos](#Videos)
 
-## Links
+## Project Links
  - [Project Homepage](https://podman.io/)
 
+## Blog Posts
+ - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
 ## Videos
 
 About this section. Optional. Keep this short and focus on the list.
