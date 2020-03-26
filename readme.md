@@ -7,7 +7,8 @@ A curated list of resources about podman
 
 ## Contents
 
-- [Links](#Project-Links)
+- [Project Links](#Project-Links)
+- [Blog Posts](#Blog-Posts)
 - [Videos](#Videos)
 
 ## Project Links
