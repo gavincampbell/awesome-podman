@@ -21,7 +21,7 @@ A curated list of resources about podman
 
 
 - [Containers without Docker - Ben Hall](https://www.youtube.com/watch?v=1RetLodCL1g) 
-- [List item](http://example.com)
+- [Replacing Docker with Podman](https://media.ccc.de/v/ASG2018-177-replacing_docker_with_podman)
 
 ## Coloring Books
 
