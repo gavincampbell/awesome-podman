@@ -16,6 +16,7 @@ A curated list of resources about podman
 
 ## Blog Posts
  - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
+ - [Migrating from Docker to Podman](https://qulogic.gitlab.io/posts/2019-10-20-migrating-to-podman/)
 ## Videos
 
 
