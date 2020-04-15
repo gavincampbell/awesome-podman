@@ -17,12 +17,13 @@ A curated list of resources about podman
 ## Blog Posts
  - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
  - [Migrating from Docker to Podman](https://qulogic.gitlab.io/posts/2019-10-20-migrating-to-podman/)
+ - [Replacing Docker with Podman - First Steps](https://blog.martdj.nl/2020/01/13/replacing-docker-with-podman-first-steps/) and a different angle on `systemd` integration
 ## Videos
 
 
 - [Containers without Docker - Ben Hall](https://www.youtube.com/watch?v=1RetLodCL1g) 
 - [Replacing Docker with Podman](https://media.ccc.de/v/ASG2018-177-replacing_docker_with_podman)
-- [Replacing Docker with Podman - First Steps](https://blog.martdj.nl/2020/01/13/replacing-docker-with-podman-first-steps/) and a different angle on `systemd` integration
+
 
 ## Coloring Books
 
