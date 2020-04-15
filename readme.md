@@ -22,6 +22,7 @@ A curated list of resources about podman
 
 - [Containers without Docker - Ben Hall](https://www.youtube.com/watch?v=1RetLodCL1g) 
 - [Replacing Docker with Podman](https://media.ccc.de/v/ASG2018-177-replacing_docker_with_podman)
+- [Replacing Docker with Podman - First Steps](https://blog.martdj.nl/2020/01/13/replacing-docker-with-podman-first-steps/) and a different angle on `systemd` integration
 
 ## Coloring Books
 
