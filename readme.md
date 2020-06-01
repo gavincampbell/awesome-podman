@@ -1,4 +1,5 @@
 # Awesome Podman [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[<img src="podman.svg">](https://podman.io/)
 
 A curated list of resources about podman
 
