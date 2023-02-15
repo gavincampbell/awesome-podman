@@ -19,6 +19,10 @@ A curated list of resources about podman
  - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
  - [Migrating from Docker to Podman](https://qulogic.gitlab.io/posts/2019-10-20-migrating-to-podman/)
  - [Replacing Docker with Podman - First Steps](https://blog.martdj.nl/2020/01/13/replacing-docker-with-podman-first-steps/) and a different angle on `systemd` integration
+ 
+## Related Tools
+
+ - [Podman Desktop](https://podman-desktop.io/) Graphical tool for managing containers and pods in a local environment
 ## Videos
 
 
